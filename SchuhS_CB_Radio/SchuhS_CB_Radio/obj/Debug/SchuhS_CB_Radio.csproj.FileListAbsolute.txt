@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\bin\Debug\SchuhS_CB_Radio.exe.config
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\bin\Debug\SchuhS_CB_Radio.exe
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\bin\Debug\SchuhS_CB_Radio.pdb
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\obj\Debug\SchuhS_CB_Radio.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\obj\Debug\SchuhS_CB_Radio.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\obj\Debug\SchuhS_CB_Radio.exe
+C:\Users\Soma\Documents\C#2\SchuhS_CB_Radio\SchuhS_CB_Radio\obj\Debug\SchuhS_CB_Radio.pdb
